@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1432506619 source:d:\code\cpp\graph\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1432506619 source:e:\code\cpp\graph\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
